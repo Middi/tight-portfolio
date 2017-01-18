@@ -5,9 +5,9 @@ body {
 
 
 p {
-    font-weight: 400;
     font-size:  20px;
     color:  $grey-64;
+    font-weight: 400;
 }
 
 h2 {
@@ -49,9 +49,9 @@ span {
 
 a {
     font-size:            18px;
+    color:           $grey-107;
     font-weight:           200;
     margin-bottom:        12px;
-    color:           $grey-107;
     text-decoration: underline;
     -webkit-text-decoration-color: $grey-107;
     -moz-text-decoration-color:    $grey-107;
