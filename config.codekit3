@@ -9,12 +9,6 @@
 	],
 "creatorBuild": "25479",
 "files": {
-	"\/.gitignore": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.gitignore",
-		"oF": 0
-		},
 	"\/css\/stylesheet.css": {
 		"aP": 0,
 		"bl": 0,
@@ -359,7 +353,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 505523445,
-	"displayValue": "tight",
+	"displayValue": "tight-portfolio",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-trap"
 	},
