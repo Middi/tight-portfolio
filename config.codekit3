@@ -65,6 +65,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/favicon.png": {
+		"ft": 32768,
+		"iS": 15266,
+		"oA": 0,
+		"oAP": "\/images\/favicon.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/git.png": {
 		"ft": 32768,
 		"iS": 16800,
@@ -112,6 +120,14 @@
 		"oAP": "\/images\/header-small.jpg",
 		"oF": 0,
 		"opt": 1
+		},
+	"\/images\/hone.jpg": {
+		"ft": 16384,
+		"iS": 122694,
+		"oA": 0,
+		"oAP": "\/images\/hone.jpg",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/images\/html.png": {
 		"ft": 32768,
