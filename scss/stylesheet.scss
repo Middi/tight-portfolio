@@ -2,7 +2,26 @@
 @import "colors";
 @import "typography";
 
+
+/*
+
+------ CONTENTS ------
+
+ 26 - HEADER SECTION
+ 60 - NEWS SECTION
+ 91 - PORTFOLIO SECTION
+143 - ABOUT SECTION
+176 - SKILLS SECTION
+207 - CONTACT SECTION
+220 - FOOTER SECTION
+
+*/
+
+
 body { background-color: $background; }
+
+
+// ----- HEADER SECTION ----- //
 
 header {
     width:   100%;
@@ -37,6 +56,9 @@ header {
     padding:      10px;
 }
 
+
+// ----- NEWS SECTION ----- //
+
 .container {
     max-width:      1250px;
     padding:        0 10px;
@@ -65,6 +87,9 @@ header {
     padding-top: 26px;
 }
 
+
+// ----- PORTFOLIO SECTION ----- //
+
 .portfolio-card {
     width:         100%;
     height:       813px;
@@ -85,9 +110,6 @@ header {
 
     a:hover { text-decoration: underline; }
 }
-
-
-// ----- Portfolio cards ----- //
 
 #vy-local {
     background: url('../images/lawn.png') top no-repeat;
@@ -117,8 +139,8 @@ header {
     background-color: $background-trevor;
 }
 
-// ----- END OF PORTFOLIO CARDS ----- //
 
+// ----- ABOUT SECTION ----- //
 
 #about {
     background: url('../images/about.jpg') top right no-repeat;
@@ -150,6 +172,9 @@ header {
     padding: 80px 10px;
 }
 
+
+// ----- SKILLS SECTION ----- //
+
 .flex-skills { display: flex; }
 
 .skills { padding-bottom: 40px; }
@@ -178,6 +203,9 @@ header {
 
 hr { opacity: 0.4; }
 
+
+// ----- CONTACT SECTION ----- //
+
 .email {
     width:        300px;
     margin-bottom: 60px;
@@ -187,6 +215,9 @@ hr { opacity: 0.4; }
 }
 
 .fa { padding: 10px; }
+
+
+// ----- FOOTER SECTION ----- //
 
 footer { margin-top: 100px; }
 
