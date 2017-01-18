@@ -1,0 +1,76 @@
+
+body {
+    font-family: 'Overpass', "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    color: white;
+}
+
+
+p {
+  font-weight: 400;
+  font-size: 20px;
+    color: rgba(64, 64, 64, 1.0);
+}
+
+
+h1 {}
+
+h2 {
+    font-size: 60px;
+    font-weight: 800;
+    margin-bottom: 12px;
+}
+
+
+h3 {
+    font-size: 32px;
+    color: rgba(64, 64, 64, 1.0);
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+
+
+h4 {
+    font-size: 18px;
+    color: rgba(107, 107, 107, 1.0);
+    font-weight: 200;
+    margin-bottom: 12px;
+}
+
+h5 {
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 300;
+}
+
+h6 {
+    font-size: 26px;
+    color: rgba(64, 64, 64, 1.0);
+    font-weight: 600;
+}
+
+span {
+  font-weight: 200;
+    color: rgba(64, 64, 64, 0.8);
+}
+
+a {
+    font-size: 18px;
+    font-weight: 200;
+    margin-bottom: 12px;
+    color: rgba(107, 107, 107, 1.0);
+    text-decoration: underline;
+    -moz-text-decoration-color: rgba(107, 107, 107, 1.0);
+    text-decoration-color: rgba(107, 107, 107, 1.0);
+}
+
+a:hover {
+    text-decoration: underline;
+    -webkit-text-decoration-color: rgba(107, 107, 107, 0.5);
+    -moz-text-decoration-color: rgba(107, 107, 107, 0.5);
+    text-decoration-color: rgba(107, 107, 107, 0.5);
+}
+
+.fa { color: $grey-107; }
+
+.social li { color: $grey-107; }
