@@ -89,7 +89,6 @@ header {
 
 // ----- Portfolio cards ----- //
 
-
 #vy-local {
     background: url('../images/lawn.png') top no-repeat;
     background-size: cover;
@@ -118,10 +117,13 @@ header {
     background-color: $background-trevor;
 }
 
+// ----- END OF PORTFOLIO CARDS ----- //
+
+
 #about {
-    height: auto;
     background: url('../images/about.jpg') top right no-repeat;
     background-size: cover;
+    height:           auto;
 
     a, h3 {
         color:        white;
@@ -189,7 +191,6 @@ hr { opacity: 0.4; }
 footer { margin-top: 100px; }
 
 .social {
-
     padding: 20px 10px;
     text-align: center;
 
