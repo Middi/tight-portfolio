@@ -101,12 +101,14 @@ header {
     padding: 72px;
     width:  450px;
 
-    a {
+    a, h6 {
         font-size:       26px;
-        color:       $grey-64;
-        font-weight:      600;
+        color:       $grey-10;
+        font-weight:      400;
         text-decoration: none;
     }
+
+    span { color: $grey-107; }
 
     a:hover { text-decoration: underline; }
 }
@@ -118,6 +120,8 @@ header {
     -o-background-size:      cover;
     background-size:         cover;
     background-color: $background-vy;
+
+
 }
 
 #growthitude {
@@ -130,13 +134,13 @@ header {
 
     a, h6 { color: white; }
 
+    span { color: $grey-169; }
+
     a:hover {
         -webkit-text-decoration-color: $hover;
         -moz-text-decoration-color:    $hover;
         text-decoration-color:         $hover;
     }
-
-    span { color: $grey-169; }
 }
 
 #trevor {
