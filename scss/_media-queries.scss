@@ -1,23 +1,26 @@
-// ------ 1545px ------ //
+// ----- DESKTOP ----- //
 
+
+
+// ------ 1545px ------ //
 
 @media only screen and (max-width: 1545px) {
 
     h2 {
-        font-size: 50px;
-        font-weight: 800;
+        font-size:     50px;
+        font-weight:    800;
         margin-bottom: 12px;
     }
 
     h5 {
-        font-size: 20px;
-        line-height: 28px;
-        font-weight: 300;
+        font-size:     20px;
+        line-height:   28px;
+        font-weight:    300;
     }
 
     .header-text {
-        max-width: 510px;
-        margin-top: 220px;
+        max-width:    510px;
+        margin-top:   220px;
     }
 }
 
@@ -29,8 +32,8 @@
     h2 { font-size: 48px; }
 
     .header-text {
-        max-width: 490px;
-        margin-top: 200px;
+        max-width:    490px;
+        margin-top:   200px;
     }
 }
 
@@ -42,13 +45,13 @@
     h2 { font-size: 42px; }
 
     .header-text {
-        max-width: 440px;
-        margin-top: 180px;
+        max-width:    440px;
+        margin-top:   180px;
     }
 
     h5 {
-        font-size: 18px;
-        line-height: 24px;
+        font-size:     18px;
+        line-height:   24px;
     }
 }
 
@@ -60,8 +63,8 @@
     h2 { font-size: 40px; }
 
     .header-text {
-        max-width: 420px;
-        margin-top: 140px;
+        max-width:    420px;
+        margin-top:   140px;
     }
 }
 
@@ -73,33 +76,32 @@
     h2 { font-size: 38px; }
 
     .header-text {
-        max-width: 400px;
-        margin-top: 120px;
+        max-width:    400px;
+        margin-top:   120px;
     }
 
     h5 {
-        font-size: 16px;
-        line-height: 20px;
+        font-size:     16px;
+        line-height:   20px;
     }
 
     .flex-skills { display: block; }
 
     .skills-left {
-        width: 100%;
-        margin: 0;
+        width:          100%;
+        margin:            0;
         padding-bottom: 40px;
 
         p {
+            font-size:  16px;
             font-weight: 200;
             line-height: 1.3;
-            font-size: 16px;
         }
     }
 
     .skills {
         .container { padding: 0 30px; }
     }
-
 }
 
 
@@ -118,14 +120,14 @@
     h2 { font-size: 40px; }
 
     .header-text {
-        max-width: 500px;
-        margin-top: 1080px;
+        max-width:      500px;
+        margin-top:    1080px;
         padding-bottom: 160px;
-        color: rgba(63, 63, 64, 1.0);
+        color:       $grey-64;
     }
 
     h5 {
-        font-size: 18px;
+        font-size:   18px;
         line-height: 24px;
     }
 
@@ -137,45 +139,45 @@
 
     .portfolio-text {
         padding: 20px;
-        width: 100%;
+        width:   100%;
 
         a, h6, span {
-            font-size: 18px;
+            font-size:  18px;
             font-weight: 200;
         }
     }
 
     #vy-local {
-        width: 100%;
+        width:   100%;
         height: 130vw;
         background: url('../images/lawn-small.png') bottom center no-repeat;
+        background-color: $background-vy;
         -webkit-background-size: contain;
-        -moz-background-size: contain;
-        -o-background-size: contain;
-        background-size: contain;
-        background-color: rgba(248, 248, 248, 1.0);
+        -moz-background-size:    contain;
+        -o-background-size:      contain;
+        background-size:         contain;
     }
 
     #growthitude {
-        background: url('../images/growthitude-small.png') bottom center no-repeat;
         height: 130vw;
-        width: 100%;
+        width:   100%;
+        background: url('../images/growthitude-small.png') bottom center no-repeat;
+        background-color: $background-growth;
         -webkit-background-size: contain;
-        -moz-background-size: contain;
-        -o-background-size: contain;
-        background-size: contain;
-        background-color: rgba(37, 45, 62, 1.0);
+        -moz-background-size:    contain;
+        -o-background-size:      contain;
+        background-size:         contain;
     }
 
     #trevor {
-        width: 100%;
+        width:   100%;
         height: 130vw;
         background: url('../images/trevor-small.png') bottom center no-repeat;
+        background-color: $background-trevor;
         -webkit-background-size: contain;
-        -moz-background-size: contain;
-        -o-background-size: contain;
-        background-size: contain;
-        background-color: rgba(238, 239, 238, 1.0);
+        -moz-background-size:    contain;
+        -o-background-size:      contain;
+        background-size:         contain;
     }
 }
 
@@ -185,7 +187,7 @@
 @media only screen and (max-width: 760px) {
 
     .header-text {
-        margin-top: 940px;
+        margin-top:     940px;
         padding-bottom: 170px;
     }
     .about-text {
@@ -200,11 +202,9 @@
 @media only screen and (max-width: 675px) {
 
     .header-text {
-        margin-top: 800px;
+        margin-top:     800px;
         padding-bottom: 155px;
     }
-
-
 }
 
 
@@ -213,8 +213,8 @@
 @media only screen and (max-width: 630px) {
 
     .header-text {
-        margin-top: 800px;
-        max-width: 450px;
+        margin-top:    800px;
+        max-width:     450px;
         padding-bottom: 80px;
     }
 
@@ -222,13 +222,13 @@
 
     .interested {
         display: block;
-        float: none;
+        float:    none;
         margin: -86px 0 0 88px;
     }
 
     .stop-search {
         vertical-align: top;
-        padding-top: 8px;
+        padding-top:    8px;
     }
 }
 
@@ -238,7 +238,7 @@
 @media only screen and (max-width: 590px) {
 
     .header-text {
-        margin-top: 660px;
+        margin-top:     660px;
         padding-bottom: 160px;
     }
 }
@@ -251,39 +251,38 @@
     h2 { font-size: 32px; }
 
     .header-text {
-        max-width: 360px;
+        max-width:     360px;
         padding-bottom: 80px;
-        margin-top: 600px;
+        margin-top:    600px;
     }
 
     h5, a {
-        font-size: 14px;
+        font-size:   14px;
         line-height: 20px;
     }
 
     #about {
         background: none;
-        background-color: rgba(36, 47, 63, 1.0);
+        background-color: $background-about;
 
         h3 {
-            color: white;
+            color:        white;
             padding-bottom: 6px;
         }
 
         a:hover {
-            -webkit-text-decoration-color: rgba(255, 255, 255, 0.5);
-            -moz-text-decoration-color: rgba(255, 255, 255, 0.5);
-            text-decoration-color: rgba(255, 255, 255, 0.5);
+            -webkit-text-decoration-color: $hover;
+            -moz-text-decoration-color:    $hover;
+            text-decoration-color:         $hover;
         }
 
         p {
-            color: rgba(193, 199, 196, 1.0);
+            color:  $about-p;
             font-weight: 200;
             line-height: 1.4;
-            font-size: 14px;
+            font-size:  14px;
         }
     }
-
 }
 
 
@@ -292,14 +291,14 @@
 @media only screen and (max-width: 455px) {
 
     .header-text {
-        max-width: 360px;
+        max-width:     360px;
         padding-bottom: 70px;
-        margin-top: 500px;
+        margin-top:    500px;
     }
 
     .portfolio-text {
         a, h6, span {
-            font-size: 16px;
+            font-size:  16px;
             line-height: 1.3;
         }
     }
@@ -311,30 +310,30 @@
 @media only screen and (max-width: 400px) {
 
     .header-text {
-        max-width: 340px;
-        padding-bottom: 55px;
-        margin-top: 430px;
+        max-width:      340px;
+        padding-bottom:  55px;
+        margin-top:     430px;
 
         h2 { font-size: 26px; }
 
         h5 {
-            font-size: 16px;
+            font-size:   16px;
             line-height: 18px;
         }
     }
 
     .avatar, .interested, .stop-search {
-        display: block;
-        margin-left: auto;
+        display:     block;
+        margin-left:  auto;
         margin-right: auto;
-        width: 100%;
+        width:        100%;
         text-align: center;
-        line-height: 22px;
-        padding: 4px;
+        line-height:  22px;
+        padding:       4px;
     }
 
     .interested {
-        margin: -16px 0 0;
+        margin:  -16px 0 0;
     }
 }
 
@@ -344,14 +343,14 @@
 @media only screen and (max-width: 350px) {
 
     .header-text {
-        max-width: 320px;
+        max-width:     320px;
         padding-bottom: 50px;
-        margin-top: 350px;
+        margin-top:    350px;
     }
 
     .portfolio-text {
         a, h6, span {
-            font-size: 14px;
+            font-size:  14px;
             line-height: 1.2;
         }
     }

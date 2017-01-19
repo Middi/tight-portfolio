@@ -113,13 +113,19 @@ header {
 
 #vy-local {
     background: url('../images/lawn.png') top no-repeat;
-    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size:    cover;
+    -o-background-size:      cover;
+    background-size:         cover;
     background-color: $background-vy;
 }
 
 #growthitude {
     background: url('../images/growthitude.png') top center no-repeat;
-    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size:    cover;
+    -o-background-size:      cover;
+    background-size:         cover;
     background-color: $background-growth;
 
     a, h6 { color: white; }
@@ -135,7 +141,10 @@ header {
 
 #trevor {
     background: url('../images/trevor.png') top no-repeat;
-    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size:    cover;
+    -o-background-size:      cover;
+    background-size:         cover;
     background-color: $background-trevor;
 }
 
