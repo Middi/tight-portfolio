@@ -16,6 +16,15 @@
 
 @media only screen and (max-width: 1000px) {
 
+
+  .header-content {height: 63vw;}
+
+
+  .header-text {
+        h2 { font-size: 3rem;}
+  }
+
+
   h2 {font-size: 52px;}
 
   .flex-skills {display: block;}
@@ -105,6 +114,15 @@
 // ------ 760px ------ //
 
 @media only screen and (max-width: 760px) {
+
+
+  .header-content {height: 66vw;}
+
+
+  .header-text {
+        h2 { font-size: 2.5rem;}
+  }
+
 
   .portfolio-card { margin-bottom: 0; }
 
