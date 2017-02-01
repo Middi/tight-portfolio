@@ -3,10 +3,8 @@
 
 ----- CONTENTS -----
 
- 14 - DESKTOP
-121 - MOBILE
-301 - IPHONE 6+
-320 - IPHONE 6
+ 15 - DESKTOP
+ 38 - MOBILE
 
 */
 
@@ -18,13 +16,7 @@
 
 @media only screen and (max-width: 1000px) {
 
-
-
-
-
   h2 {font-size: 52px;}
-
-
 
   .flex-skills {display: block;}
 
@@ -48,9 +40,6 @@
 // ------ Mobile ------ //
 
 @media only screen and (max-width: 850px) {
-
-
-
 
   .logo-top {
       padding: 10px 0 0 23px;
@@ -197,8 +186,6 @@
 // ------ 350px ------ //
 
 @media only screen and (max-width: 350px) {
-
-
 
   .portfolio-text {
       a, h6, span {

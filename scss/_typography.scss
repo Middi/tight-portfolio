@@ -1,7 +1,7 @@
 * {
-    text-rendering: optimizeLegibility;
+    text-rendering:  optimizeLegibility;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    -moz-osx-font-smoothing:  grayscale;
 }
 
 body {
@@ -10,15 +10,16 @@ body {
 }
 
 p {
-    font-size:  20px;
-    color:  $grey-64;
-    font-weight: 400;
+    font-size:     20px;
+    color:     $grey-64;
+    font-weight:    400;
     margin-bottom: 16px;
 }
 
 h2 {
     font-size:     60px;
     font-weight:    600;
+    
     span {
         color:     white;
         font-weight: 300;
