@@ -1,63 +1,51 @@
 @import "normalise";
 @import "colors";
 @import "typography";
+@import "buttons";
 
 
 /*
 
 ------ CONTENTS ------
 
- 26 - HEADER SECTION
- 60 - NEWS SECTION
- 91 - PORTFOLIO SECTION
-143 - ABOUT SECTION
-176 - SKILLS SECTION
-207 - CONTACT SECTION
-220 - FOOTER SECTION
+ 25 - HEADER SECTION
+ 48 - PORTFOLIO SECTION
+125 - ABOUT SECTION
+158 - SKILLS SECTION
+196 - CONTACT SECTION
+214 - FOOTER SECTION
 
 */
 
 
-body { background-color: $background; }
+body {background-color: $background;}
 
 
 // ----- HEADER SECTION ----- //
 
-header {
-    width:   100%;
-    height:  47vw;
-    background: url('../images/header-img.jpg') top right no-repeat;
-    background-size: cover;
+
+.hidden {display: none;}
+
+.header-content {
+    background: url('../images/hero-img.jpg') no-repeat;
+    background-size:  100vw;
+    height:            43vw;
+    display:           flex;
+    align-items:     center;
+    justify-content: center;
 }
 
-.header-mobile {
-    display: none;
-    width: 100%;
-    background: url('../images/header-small.jpg') top right no-repeat;
-    -webkit-background-size: contain;
-    -moz-background-size:    contain;
-    -o-background-size:      contain;
-    background-size:         contain;
-}
-
-.logo {
-    width:       131px;
-    margin-left:  auto;
-    margin-right: auto;
-    padding-top:  25px;
-}
 
 .header-text {
-    max-width:   610px;
-    margin-left:  auto;
-    margin-right: auto;
-    margin-top:  268px;
-    text-align: center;
-    padding:      10px;
+      margin-left:     auto;
+      margin-right:    auto;
+      text-align:    center;
+      max-width:        90%;
+      align-self:    center;
 }
 
 
-// ----- NEWS SECTION ----- //
+// ----- PORTFOLIO SECTION ----- //
 
 .container {
     max-width:      1250px;
@@ -65,30 +53,11 @@ header {
     margin: 30px auto 50px;
 }
 
-.news {
-    border-top:    1px solid $background-trevor;
-    border-bottom: 1px solid $background-trevor;
-}
-
 .inner {
     width:           100%;
+    margin-top:      40px;
     display: inline-block;
 }
-
-.avatar, .interested, .stop-search {
-    display:   inline-block;
-    line-height:       32px;
-    padding:           12px;
-    vertical-align:  middle;
-}
-
-.interested {
-    float:      right;
-    padding-top: 26px;
-}
-
-
-// ----- PORTFOLIO SECTION ----- //
 
 .portfolio-card {
     width:         100%;
@@ -102,26 +71,24 @@ header {
     width:  450px;
 
     a, h6 {
-        font-size:       26px;
-        color:       $grey-10;
+        font-size:       24px;
+        color:          white;
         font-weight:      400;
         text-decoration: none;
     }
 
-    span { color: $grey-107; }
+    span { color: $grey-169;}
 
-    a:hover { text-decoration: underline; }
+    a:hover {
+      text-decoration: underline;
+      -webkit-text-decoration-color: $hover;
+      -moz-text-decoration-color:    $hover;
+      text-decoration-color:         $hover;}
 }
 
 #vy-local {
-    background: url('../images/lawn.png') top no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size:    cover;
-    -o-background-size:      cover;
-    background-size:         cover;
+    background: url('../images/desktop.png') right bottom no-repeat;
     background-color: $background-vy;
-
-
 }
 
 #growthitude {
@@ -132,24 +99,28 @@ header {
     background-size:         cover;
     background-color: $background-growth;
 
-    a, h6 { color: white; }
+    a, h6 {color: white;}
 
-    span { color: $grey-169; }
+      span {color: $grey-10;}
+}
+
+#payment {
+    background: url('../images/payment.png') top no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size:    cover;
+    -o-background-size:      cover;
+    background-size:         cover;
+    background-color: $background-payment;
+
+    a, h6 {color: $grey-10;}
+
+    span {color: $grey-64;}
 
     a:hover {
         -webkit-text-decoration-color: $hover;
         -moz-text-decoration-color:    $hover;
         text-decoration-color:         $hover;
     }
-}
-
-#trevor {
-    background: url('../images/trevor.png') top no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size:    cover;
-    -o-background-size:      cover;
-    background-size:         cover;
-    background-color: $background-trevor;
 }
 
 
@@ -188,9 +159,9 @@ header {
 
 // ----- SKILLS SECTION ----- //
 
-.flex-skills { display: flex; }
+.flex-skills {display: flex;}
 
-.skills { padding-bottom: 40px; }
+.skills {padding-bottom: 40px;}
 
 .skills-left {
     width:   750px;
@@ -209,42 +180,64 @@ header {
     flex-wrap:    wrap;
     margin:  10px 20px;
 
-    p { font-size: 14px; }
+    p {font-size: 14px;}
+
+    .logo {
+        width:       120px;
+        margin-left:  auto;
+        margin-right: auto;
+        padding-top:  25px;
+    }
 }
 
-.logo-skills { text-align: center; }
+.logo-skills {text-align: center;}
 
-hr { opacity: 0.4; }
+hr {opacity: 0.4;}
 
 
 // ----- CONTACT SECTION ----- //
 
 .email {
-    width:        300px;
+    width:        330px;
     margin-bottom: 60px;
     margin-left:   auto;
     margin-right:  auto;
     text-align:  center;
+
+    a {
+        font-size:   20px;
+        line-height: 22px;
+    }
 }
 
-.fa { padding: 10px; }
+.fa {padding: 10px;}
 
 
 // ----- FOOTER SECTION ----- //
 
-footer { margin-top: 100px; }
+footer {margin-top: 100px;}
+
+.logo-bottom {
+    width:       60px;
+    margin-left:  auto;
+    margin-right: auto;
+    img  {width: 60px;}
+}
+
 
 .social {
     padding: 20px 10px;
+    width: 100%;
     text-align: center;
+
 
     li {
         display:  inline;
         font-weight: 200;
-        padding:    10px;
+        padding:    15px;
     }
 
-    a, li { font-size: 14px; }
+    a, li {font-size: 14px;}
 }
 
 

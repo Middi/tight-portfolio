@@ -65,6 +65,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/desktop-small.png": {
+		"ft": 32768,
+		"iS": 389854,
+		"oA": 0,
+		"oAP": "\/images\/desktop-small.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/desktop.png": {
+		"ft": 32768,
+		"iS": 235104,
+		"oA": 0,
+		"oAP": "\/images\/desktop.png",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/images\/favicon.png": {
 		"ft": 32768,
 		"iS": 15266,
@@ -105,11 +121,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/header-img.jpg": {
+	"\/images\/header-img2.jpg": {
 		"ft": 16384,
 		"iS": 159403,
 		"oA": 0,
-		"oAP": "\/images\/header-img.jpg",
+		"oAP": "\/images\/header-img2.jpg",
 		"oF": 0,
 		"opt": 0
 		},
@@ -118,6 +134,14 @@
 		"iS": 103443,
 		"oA": 0,
 		"oAP": "\/images\/header-small.jpg",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/hero-img.jpg": {
+		"ft": 16384,
+		"iS": 347678,
+		"oA": 0,
+		"oAP": "\/images\/hero-img.jpg",
 		"oF": 0,
 		"opt": 1
 		},
@@ -167,7 +191,7 @@
 		"oA": 0,
 		"oAP": "\/images\/lawn-small.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/images\/lawn-smaller.psd": {
 		"ft": 8192,
@@ -227,6 +251,22 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/images\/payment-small.png": {
+		"ft": 32768,
+		"iS": 757680,
+		"oA": 0,
+		"oAP": "\/images\/payment-small.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/payment.png": {
+		"ft": 32768,
+		"iS": 628337,
+		"oA": 0,
+		"oAP": "\/images\/payment.png",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/images\/php.png": {
 		"ft": 32768,
 		"iS": 20387,
@@ -242,6 +282,32 @@
 		"oAP": "\/images\/ps.png",
 		"oF": 0,
 		"opt": 0
+		},
+	"\/images\/richard-black.png": {
+		"ft": 32768,
+		"iS": 14756,
+		"oA": 0,
+		"oAP": "\/images\/richard-black.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/richard.png": {
+		"ft": 32768,
+		"iS": 13119,
+		"oA": 0,
+		"oAP": "\/images\/richard.png",
+		"oF": 0,
+		"opt": 1
+		},
+	"\/images\/richard.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/richard.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/images\/sass.png": {
 		"ft": 32768,
@@ -291,6 +357,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/vy.jpg": {
+		"ft": 16384,
+		"iS": 347251,
+		"oA": 0,
+		"oAP": "\/images\/vy.jpg",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
@@ -319,6 +393,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/scss\/_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/scss\/buttons.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/scss\/buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

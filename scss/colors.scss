@@ -1,10 +1,13 @@
+/* ---- BRAND --- */
+
+$brand: rgba(67, 119, 198, 1.0);
 
 /*  ---- BACKGROUNDS ---- */
 
 $background:        rgba(255, 255, 255, 1.0);
-$background-vy:     rgba(244, 244, 244, 1.0);
-$background-growth:    rgba(25, 41, 57, 1.0);
-$background-trevor: rgba(238, 239, 238, 1.0);
+$background-vy:        rgba(21, 25, 33, 1.0);
+$background-growth:  rgba(67, 128, 235, 1.0);
+$background-payment: rgba(238, 239, 238, 1.0);
 $background-about:     rgba(36, 47, 63, 1.0);
 
 /*  ---- FONTS ---- */
@@ -14,5 +17,5 @@ $grey-64:     rgba(64, 64, 64, 1.0);
 $grey-107: rgba(107, 107, 107, 1.0);
 $grey-169: rgba(167, 169, 173, 1.0);
 
-$hover:    rgba(179, 179, 179, 1.0);
+$hover:    rgba(199, 199, 199, 1.0);
 $about-p:  rgba(193, 199, 196, 1.0);

@@ -1,5 +1,11 @@
+* {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 body {
-    font-family: 'Overpass', "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: white;
 }
 
@@ -7,12 +13,16 @@ p {
     font-size:  20px;
     color:  $grey-64;
     font-weight: 400;
+    margin-bottom: 16px;
 }
 
 h2 {
     font-size:     60px;
-    font-weight:    800;
-    margin-bottom: 12px;
+    font-weight:    600;
+    span {
+        color:     white;
+        font-weight: 300;
+    }
 }
 
 h3 {
@@ -25,14 +35,15 @@ h3 {
 h4 {
     font-size:     18px;
     color:    $grey-107;
-    font-weight:    200;
+    font-weight:    300;
     margin-bottom: 12px;
 }
 
 h5 {
     font-size:     22px;
-    line-height:   32px;
+    line-height:   26px;
     font-weight:    300;
+    margin-bottom: 50px;
 }
 
 h6 {
@@ -43,13 +54,13 @@ h6 {
 
 span {
     color:     $grey-64;
-    font-weight:    200;
+    font-weight:    300;
 }
 
 a {
     font-size:            18px;
     color:           $grey-107;
-    font-weight:           200;
+    font-weight:           300;
     margin-bottom:        12px;
     text-decoration: underline;
     -webkit-text-decoration-color: $grey-107;
@@ -64,10 +75,26 @@ a:hover {
     text-decoration-color:         rgba($grey-107, .5);
 }
 
-.fa {
-    color: $grey-107;
+.fa {color: $grey-107;}
+
+.social li {color: $grey-107;}
+
+.button, .button:hover {
+  background-color: rgba($brand, 0.7);
+  font-family:       "Helvetica Neue";
+  font-size:   20px;
+  font-weight:  400;
+  color:      white;
+  float:      right;
+  margin-top:  12px;
+  text-decoration:   none;
+  padding:       6px 20px;
+  border: 2px solid white;
+  border-radius:     50px;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition:    all 0.5s ease;
+  -o-transition:      all 0.5s ease;
+  transition:         all 0.5s ease;
 }
 
-.social li {
-    color: $grey-107;
-}
+.button:hover {background-color: $brand;}
