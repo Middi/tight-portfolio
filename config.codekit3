@@ -121,22 +121,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/header-img2.jpg": {
-		"ft": 16384,
-		"iS": 159403,
-		"oA": 0,
-		"oAP": "\/images\/header-img2.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/header-small.jpg": {
-		"ft": 16384,
-		"iS": 103443,
-		"oA": 0,
-		"oAP": "\/images\/header-small.jpg",
-		"oF": 0,
-		"opt": 1
-		},
 	"\/images\/hero-img.jpg": {
 		"ft": 16384,
 		"iS": 347678,
@@ -144,14 +128,6 @@
 		"oAP": "\/images\/hero-img.jpg",
 		"oF": 0,
 		"opt": 1
-		},
-	"\/images\/hone.jpg": {
-		"ft": 16384,
-		"iS": 122694,
-		"oA": 0,
-		"oAP": "\/images\/hone.jpg",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/images\/html.png": {
 		"ft": 32768,
@@ -177,14 +153,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/lawn-small.jpg": {
-		"ft": 16384,
-		"iS": 132246,
-		"oA": 0,
-		"oAP": "\/images\/lawn-small.jpg",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/images\/lawn-small.png": {
 		"ft": 32768,
 		"iS": 537166,
@@ -198,58 +166,6 @@
 		"oA": 2,
 		"oAP": "\/images\/lawn-smaller.psd",
 		"oF": 0
-		},
-	"\/images\/lawn.jpg": {
-		"ft": 16384,
-		"iS": 107229,
-		"oA": 0,
-		"oAP": "\/images\/lawn.jpg",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/lawn.png": {
-		"ft": 32768,
-		"iS": 421776,
-		"oA": 0,
-		"oAP": "\/images\/lawn.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/images\/logo-black.png": {
-		"ft": 32768,
-		"iS": 2433,
-		"oA": 0,
-		"oAP": "\/images\/logo-black.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/logo-black.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/logo-black.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/images\/logo.png": {
-		"ft": 32768,
-		"iS": 2433,
-		"oA": 0,
-		"oAP": "\/images\/logo.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/images\/payment-small.png": {
 		"ft": 32768,
@@ -283,32 +199,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/richard-black.png": {
-		"ft": 32768,
-		"iS": 14756,
-		"oA": 0,
-		"oAP": "\/images\/richard-black.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/richard.png": {
-		"ft": 32768,
-		"iS": 13119,
-		"oA": 0,
-		"oAP": "\/images\/richard.png",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/richard.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/richard.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"\/images\/sass.png": {
 		"ft": 32768,
 		"iS": 17274,
@@ -325,22 +215,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/images\/trevor-small.jpg": {
-		"ft": 16384,
-		"iS": 104124,
-		"oA": 0,
-		"oAP": "\/images\/trevor-small.jpg",
-		"oF": 0,
-		"opt": 1
-		},
-	"\/images\/trevor-small.png": {
-		"ft": 32768,
-		"iS": 592846,
-		"oA": 0,
-		"oAP": "\/images\/trevor-small.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/images\/trevor.jpg": {
 		"ft": 16384,
 		"iS": 141579,
@@ -348,14 +222,6 @@
 		"oAP": "\/images\/trevor.jpg",
 		"oF": 0,
 		"opt": 1
-		},
-	"\/images\/trevor.png": {
-		"ft": 32768,
-		"iS": 551435,
-		"oA": 0,
-		"oAP": "\/images\/trevor.png",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/images\/vy.jpg": {
 		"ft": 16384,
