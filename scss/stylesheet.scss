@@ -72,12 +72,12 @@ body {background-color: $background;}
 
     a, h6 {
         font-size:       24px;
-        color:          white;
+        color:       $grey-10;
         font-weight:      400;
         text-decoration: none;
     }
 
-    span { color: $grey-169;}
+    span { color: $grey-64;}
 
     a:hover {
       text-decoration: underline;
@@ -87,12 +87,12 @@ body {background-color: $background;}
 }
 
 #vy-local {
-    background: url('../images/desktop.png') right bottom no-repeat;
-    background-color: $background-vy;
+    background: url('../images/desktop.png') right bottom no-repeat, linear-gradient(#DEDFE3 2%, #AEB3B9 95%),
+    radial-gradient(33% 100%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
 }
 
 #growthitude {
-    background: url('../images/growthitude.png') top center no-repeat;
+    background: url('../images/growthitude.png') top center no-repeat, linear-gradient(-180deg, #15140F 0%, #34312C 97%);
     -webkit-background-size: cover;
     -moz-background-size:    cover;
     -o-background-size:      cover;
@@ -101,11 +101,12 @@ body {background-color: $background;}
 
     a, h6 {color: white;}
 
-      span {color: $grey-10;}
+      span {color: $grey-169;}
 }
 
 #payment {
-    background: url('../images/payment.png') top no-repeat;
+    background: url('../images/payment.png') top no-repeat, linear-gradient(#DEDFE3 2%, #AEB3B9 95%),
+    radial-gradient(33% 100%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
     -webkit-background-size: cover;
     -moz-background-size:    cover;
     -o-background-size:      cover;

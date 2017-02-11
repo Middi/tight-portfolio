@@ -314,6 +314,12 @@
 		"oF": 2,
 		"oS": 3,
 		"uL": 1
+		},
+	"\/template.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/template.psd",
+		"oF": 0
 		}
 	},
 "hooks": [
