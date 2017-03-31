@@ -85,8 +85,8 @@ body {background-color: $background;}
 }
 
 #vy-local {
-    background: url('../images/desktop.png') right bottom no-repeat, linear-gradient(#DEDFE3 2%, #AEB3B9 95%),
-    radial-gradient(33% 100%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
+    background: url('../images/desktop.png') right bottom no-repeat, linear-gradient(#F9F9F9 2%, #CFD5DA 95%),
+    radial-gradient(33% 100%, rgba(255,255,255,0.70) 0%, rgba(0,0,0,0.20) 100%);
 }
 
 #growthitude {
@@ -109,8 +109,8 @@ body {background-color: $background;}
 }
 
 #projects {
-    background: url('../images/projects.png') top no-repeat, linear-gradient(#DEDFE3 2%, #AEB3B9 95%),
-    radial-gradient(33% 100%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
+    background: url('../images/projects.png') top no-repeat, linear-gradient(#F9F9F9 2%, #CFD5DA 95%),
+    radial-gradient(33% 100%, rgba(255,255,255,0.70) 0%, rgba(0,0,0,0.20) 100%);
     -webkit-background-size: cover;
     -moz-background-size:    cover;
     -o-background-size:      cover;
