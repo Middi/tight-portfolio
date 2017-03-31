@@ -50,7 +50,7 @@
 		"oA": 0,
 		"oAP": "\/images\/cleaning.jpg",
 		"oF": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/close.svg": {
@@ -89,7 +89,7 @@
 		"oA": 0,
 		"oAP": "\/images\/construction.jpg",
 		"oF": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/css.png": {
@@ -120,6 +120,36 @@
 		"oAP": "\/images\/desktop.png",
 		"oF": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/images\/desktop2.png": {
+		"ft": 32768,
+		"iS": 517750,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/desktop2.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/desktop3.png": {
+		"ft": 32768,
+		"iS": 263257,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/desktop3.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/desktop4.png": {
+		"ft": 32768,
+		"iS": 296497,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/desktop4.png",
+		"oF": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/favicon.png": {
@@ -177,7 +207,7 @@
 		"oA": 0,
 		"oAP": "\/images\/handyman.jpg",
 		"oF": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/hero-img.jpg": {
@@ -241,7 +271,7 @@
 		"oA": 0,
 		"oAP": "\/images\/lawn.jpg",
 		"oF": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/payment-small.png": {

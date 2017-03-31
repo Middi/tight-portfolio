@@ -81,9 +81,7 @@ body {background-color: $background;}
 
     a:hover {
       text-decoration: underline;
-      -webkit-text-decoration-color: $hover;
-      -moz-text-decoration-color:    $hover;
-      text-decoration-color:         $hover;}
+    }
 }
 
 #vy-local {
@@ -100,6 +98,12 @@ body {background-color: $background;}
     background-color: $background-growth;
 
     a, h6 {color: white;}
+
+    a:hover {
+        -webkit-text-decoration-color: $hover;
+        -moz-text-decoration-color:    $hover;
+        text-decoration-color:         $hover;
+    }
 
       span {color: $grey-169;}
 }
@@ -118,9 +122,7 @@ body {background-color: $background;}
     span {color: $grey-64;}
 
     a:hover {
-        -webkit-text-decoration-color: $hover;
-        -moz-text-decoration-color:    $hover;
-        text-decoration-color:         $hover;
+        text-decoration: underline;
     }
 }
 

@@ -32,10 +32,11 @@ if (!detectmob()) {
   // Iterate through and add event listeners to open-img
   for (var i = 0; i < openImg.length; i++) {
     openImg[i].addEventListener('click', function (e) {
-
+e.preventDefault();
 
       modal.classList.toggle("closed");
       modalBg.classList.toggle("closed");
     });
   }
 }
+
