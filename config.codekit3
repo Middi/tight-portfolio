@@ -7,7 +7,7 @@
 		"uuidString": "15DEB42B-BC78-4C1A-A9AA-22BB7DD187B5"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25704",
 "files": {
 	"\/css\/stylesheet.css": {
 		"aP": 0,
@@ -31,79 +31,126 @@
 		"oA": 0,
 		"oAP": "\/images\/about.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/bs.png": {
 		"ft": 32768,
 		"iS": 18647,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/bs.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/cleaning.jpg": {
+		"ft": 16384,
+		"iS": 58810,
+		"oA": 0,
+		"oAP": "\/images\/cleaning.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/close.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/images\/close.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/images\/comic-100.png": {
 		"ft": 32768,
 		"iS": 29471,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/comic-100.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/comic.png": {
 		"ft": 32768,
 		"iS": 46432,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/comic.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/construction.jpg": {
+		"ft": 16384,
+		"iS": 78838,
+		"oA": 0,
+		"oAP": "\/images\/construction.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/css.png": {
 		"ft": 32768,
 		"iS": 19330,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/css.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/desktop-small.png": {
 		"ft": 32768,
 		"iS": 389854,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/desktop-small.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/desktop.png": {
 		"ft": 32768,
 		"iS": 235104,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/desktop.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/favicon.png": {
 		"ft": 32768,
 		"iS": 15266,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/favicon.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/git.png": {
 		"ft": 32768,
 		"iS": 16800,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/git.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/growthitude-small.png": {
 		"ft": 32768,
 		"iS": 520225,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/growthitude-small.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/growthitude.jpg": {
 		"ft": 16384,
@@ -111,15 +158,27 @@
 		"oA": 0,
 		"oAP": "\/images\/growthitude.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/growthitude.png": {
 		"ft": 32768,
 		"iS": 632994,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/growthitude.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/handyman.jpg": {
+		"ft": 16384,
+		"iS": 62188,
+		"oA": 0,
+		"oAP": "\/images\/handyman.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/hero-img.jpg": {
 		"ft": 16384,
@@ -127,39 +186,48 @@
 		"oA": 0,
 		"oAP": "\/images\/hero-img.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/html.png": {
 		"ft": 32768,
 		"iS": 24869,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/html.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/jq.png": {
 		"ft": 32768,
 		"iS": 20116,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/jq.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/js.png": {
 		"ft": 32768,
 		"iS": 18662,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/js.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/lawn-small.png": {
 		"ft": 32768,
 		"iS": 537166,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/lawn-small.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/lawn-smaller.psd": {
 		"ft": 8192,
@@ -167,53 +235,106 @@
 		"oAP": "\/images\/lawn-smaller.psd",
 		"oF": 0
 		},
+	"\/images\/lawn.jpg": {
+		"ft": 16384,
+		"iS": 101117,
+		"oA": 0,
+		"oAP": "\/images\/lawn.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/payment-small.png": {
 		"ft": 32768,
 		"iS": 757680,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/payment-small.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/payment.png": {
 		"ft": 32768,
 		"iS": 628337,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/payment.png",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/images\/php.png": {
 		"ft": 32768,
 		"iS": 20387,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/php.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/projects": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/images\/projects",
+		"oF": 0
+		},
+	"\/images\/projects-small.png": {
+		"ft": 32768,
+		"iS": 538201,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/projects-small.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/projects-small.psd": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/images\/projects-small.psd",
+		"oF": 0
+		},
+	"\/images\/projects.png": {
+		"ft": 32768,
+		"iS": 658793,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/projects.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/ps.png": {
 		"ft": 32768,
 		"iS": 18801,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/ps.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/sass.png": {
 		"ft": 32768,
 		"iS": 17274,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/sass.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/sketch.png": {
 		"ft": 32768,
 		"iS": 16627,
+		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/sketch.png",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/trevor.jpg": {
 		"ft": 16384,
@@ -221,7 +342,16 @@
 		"oA": 0,
 		"oAP": "\/images\/trevor.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/vy-gif.gif": {
+		"ft": 4194304,
+		"iS": 4460181,
+		"oA": 0,
+		"oAP": "\/images\/vy-gif.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/images\/vy.jpg": {
 		"ft": 16384,
@@ -229,13 +359,32 @@
 		"oA": 0,
 		"oAP": "\/images\/vy.jpg",
 		"oF": 0,
-		"opt": 1
+		"opt": 1,
+		"q": 100
 		},
 	"\/index.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/js\/main-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/main-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/scss\/_media-queries.scss": {
 		"aP": 0,
@@ -1002,6 +1151,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-cond-assign": {
 			"active": 1,
 			"optionString": "'except-parens'"
@@ -1199,6 +1352,10 @@
 			"optionString": "{'grouping': false, 'allowCall': false }"
 			},
 		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1478,6 +1635,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -1529,6 +1690,10 @@
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -1623,6 +1788,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -2069,7 +2238,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -2162,7 +2332,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"enableLossy": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,

@@ -12,6 +12,43 @@
 // ----- DESKTOP ----- //
 
 
+@media only screen and (max-width: 1500px) {
+
+  .modal-images {
+    
+    img {
+        width: 280px;
+        }
+}
+
+}
+
+@media only screen and (max-width: 1250px) {
+
+  .modal-images {
+    
+    .img {
+        display: none;
+        }
+
+        .hidden {
+            display: block;
+        }
+}
+
+
+  #modal-content {
+    width: 100%;
+    padding: 20px 5px;
+    p {
+        line-height: 1;
+        font-size:  16px;
+    }
+}
+
+}
+
+
 // ------ 1000px ------ //
 
 @media only screen and (max-width: 1000px) {
@@ -95,9 +132,9 @@
       background-size:         contain;
   }
 
-  #payment {
-      background: url('../images/payment-small.png') bottom center no-repeat;
-      background-color: $background-payment;
+  #projects {
+      background: url('../images/projects-small.png') bottom center no-repeat;
+      background-color: $background-projects;
       -webkit-background-size: contain;
       -moz-background-size:    contain;
       -o-background-size:      contain;
@@ -137,7 +174,6 @@
 
       a, li {font-size: 14px;}
   }
-
 
 }
 
@@ -191,6 +227,8 @@
 
     p,a {font-size: 14px;}
   }
+
+
 }
 
 

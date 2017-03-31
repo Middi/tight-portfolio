@@ -16,7 +16,7 @@
     <!-- Twitter Card Data -->
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:url" content="http://www.richardmiddleton.me/tight/index.html">
+    <meta name="twitter:url" content="http://www.richardmiddleton.me">
     <meta name="twitter:title" content="Richard Middleton - Web Developer">
     <meta name="twitter:description" content="Richard Middleton - Web Developer in Oslo, Norway,">
     <meta name="twitter:image" content="http://www.richardmiddleton.me/images/comic.png">
@@ -25,7 +25,7 @@
 
     <meta property="og:title" content="Richard Middleton - Web Developer" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://www.richardmiddleton.me/tight/index.html" />
+    <meta property="og:url" content="http://www.richardmiddleton.me" />
     <meta property="og:image" content="http://www.richardmiddleton.me/images/comic.png" />
     <meta property="og:description" content="Richard Middleton - Web Developer in Oslo, Norway." />
 
@@ -63,24 +63,25 @@
 
             <article class="portfolio-card" id="vy-local">
                 <div class="portfolio-text">
-                    <h6><a href="http://richardmiddleton.me/construction" target="_blank">VY Local</a></h6>
-                    <h6><span>frontend for automated webtemplate site VY Local.</span></h6>
+                    <h6 class="open-modal">VY Local</h6>
+                    <h6><span>Frontend for automated webtemplate site VY Local.</span></h6>
+                    <p class="open-modal">More Info...</p>
                 </div>
             </article>
 
 
             <article class="portfolio-card" id="growthitude">
                 <div class="portfolio-text">
-                    <h6><a href="http://growthitude.com" target="_blank">Growthitude</a></h6>
+                    <h6 class="open-modal">Growthitude</h6>
                     <h6><span>Web design and creation for Norwegian, business growth consultancy.</span></h6>
                 </div>
             </article>
 
 
-            <article class="portfolio-card" id="payment">
+            <article class="portfolio-card" id="projects">
                 <div class="portfolio-text">
-                    <h6><a href="http://richardmiddleton.me/payment-old" target="_blank">Payment page</a></h6>
-                    <h6><span>Design & responsive frontend for VY Local payment page.</span></h6>
+                    <h6><a href="http://richardmiddleton.me/projects">Projects</a></h6>
+                    <h6><span>Projects created by myself. Including design work, HTML, CSS, Javascript and API work.</span></h6>
                 </div>
             </article>
 
@@ -144,7 +145,7 @@
 
                     <div class="logo">
                       <img src="images/php.png" alt="logo">
-                        <p>let's make it dynamic, contact form? not a problem.</p>
+                        <p>let's make it dynamic, wordpress? contact form? not a problem.</p>
                     </div>
 
                     <div class="logo">
@@ -228,6 +229,57 @@
 
     </footer>
 
+
+            <!-- MODAL 1 -->
+        <div class="modal">
+            <a href="#" class="close-button"><img src="images/close.svg"></a>
+
+            <div class="modal-bg"></div>
+            
+            <div class="modal-main">
+<h3>VY Local</h3>
+                <div class="modal-images">
+                <div class="img"><a href="http://richardmiddleton.me/construction" target="_blank">
+                <img src="images/construction.jpg"></a>
+                </div>
+                <div class="img"><a href="http://richardmiddleton.me/cleaning" target="_blank">
+                <img src="images/cleaning.jpg"></a>
+                </div>
+                <div class="img"><a href="http://richardmiddleton.me/lawn-new" target="_blank">
+                <img src="images/lawn.jpg"></a>
+                </div>
+                <div class="img"><a href="http://richardmiddleton.me/handyman" target="_blank">
+                <img src="images/handyman.jpg"></a>
+                </div>
+                <div class="hidden">
+                <img src="images/vy-gif.gif">
+                </div>
+
+                </div>
+                <div id="modal-content">
+                    <p>Frontend for automated webtemplate site VY Local.</p>
+                    <p>4 custom templates created from PSD files.</p>
+                    <p>Using PHP for contact forms and Jquery for smooth scrolling along side SCSS & HTML5 for semantic code.</p>
+                    <p>Together with Bootstrap, Google Fonts & FontAwesome to pull the package together.</p>
+
+                    <p>
+                        <a href="http://richardmiddleton.me/construction" target="_blank">Construction</a> /
+                    
+                    <a href="http://richardmiddleton.me/cleaning" target="_blank">Cleaning</a> / 
+                    
+                    <a href="http://richardmiddleton.me/lawn-new" target="_blank">Lawn</a> /
+                    
+                    <a href="http://richardmiddleton.me/handyman" target="_blank">Handyman</a></p>
+                    
+
+                </div>
+            </div>
+        </div>
+
+
+           
+
+
 </body>
 
 <!-- Favicon -->
@@ -235,6 +287,9 @@
 
 <!-- FONT AWESOME -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- JAVASCIPT -->
+<script type="text/javascript" src="js/main.js"></script>
 
 <!-- GOOGLE FONTS -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
