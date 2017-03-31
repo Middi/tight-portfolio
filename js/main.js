@@ -9,7 +9,7 @@ function detectmob() {
 
 // MODAL
 
-if (!detectmob()) {
+// if (!detectmob()) {
 
   // Grab from DOM
   var modal = document.querySelector(".modal");
@@ -38,5 +38,5 @@ e.preventDefault();
       modalBg.classList.toggle("closed");
     });
   }
-}
+// }
 
