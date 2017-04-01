@@ -25,6 +25,24 @@
 		"oAP": "\/gitignore",
 		"oF": 0
 		},
+	"\/images\/about.jpg": {
+		"ft": 16384,
+		"iS": 32420,
+		"oA": 0,
+		"oAP": "\/images\/about.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/cleaning.jpg": {
+		"ft": 16384,
+		"iS": 12043,
+		"oA": 0,
+		"oAP": "\/images\/cleaning.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/close.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -35,11 +53,196 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/images\/comic-100.png": {
+		"ft": 32768,
+		"iS": 4530,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/comic-100.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/comic.png": {
+		"ft": 32768,
+		"iS": 44470,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/comic.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/construction.jpg": {
+		"ft": 16384,
+		"iS": 15609,
+		"oA": 0,
+		"oAP": "\/images\/construction.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/desktop-small.png": {
+		"ft": 32768,
+		"iS": 112453,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/desktop-small.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/desktop.png": {
+		"ft": 32768,
+		"iS": 99917,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/desktop.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/desktop2.png": {
+		"ft": 32768,
+		"iS": 138168,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/desktop2.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/desktop3.png": {
+		"ft": 32768,
+		"iS": 79424,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/desktop3.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/desktop4.png": {
+		"ft": 32768,
+		"iS": 82073,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/desktop4.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/favicon.png": {
+		"ft": 32768,
+		"iS": 297,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/favicon.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/growthitude-small.png": {
+		"ft": 32768,
+		"iS": 132245,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/growthitude-small.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/growthitude.jpg": {
+		"ft": 16384,
+		"iS": 62082,
+		"oA": 0,
+		"oAP": "\/images\/growthitude.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/growthitude.png": {
+		"ft": 32768,
+		"iS": 187819,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/growthitude.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/handyman.jpg": {
+		"ft": 16384,
+		"iS": 12353,
+		"oA": 0,
+		"oAP": "\/images\/handyman.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/hero-img.jpg": {
+		"ft": 16384,
+		"iS": 59942,
+		"oA": 0,
+		"oAP": "\/images\/hero-img.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/lawn-small.png": {
+		"ft": 32768,
+		"iS": 93238,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/lawn-small.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/lawn-smaller.psd": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/images\/lawn-smaller.psd",
 		"oF": 0
+		},
+	"\/images\/lawn.jpg": {
+		"ft": 16384,
+		"iS": 18450,
+		"oA": 0,
+		"oAP": "\/images\/lawn.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/payment-small.png": {
+		"ft": 32768,
+		"iS": 85251,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/payment-small.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/payment.png": {
+		"ft": 32768,
+		"iS": 121729,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/payment.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/projects-small.png": {
+		"ft": 32768,
+		"iS": 94390,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/projects-small.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/projects-small.psd": {
 		"ft": 8192,
@@ -47,11 +250,30 @@
 		"oAP": "\/images\/projects-small.psd",
 		"oF": 0
 		},
+	"\/images\/projects.png": {
+		"ft": 32768,
+		"iS": 136324,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/projects.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/projects.psd": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/images\/projects.psd",
 		"oF": 0
+		},
+	"\/images\/trevor.jpg": {
+		"ft": 16384,
+		"iS": 54233,
+		"oA": 0,
+		"oAP": "\/images\/trevor.jpg",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/images\/vy-gif.gif": {
 		"ft": 4194304,
