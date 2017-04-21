@@ -12,55 +12,51 @@
 // ----- DESKTOP ----- //
 
 
+// --- BREAK 1 --- //
 @media only screen and (max-width: 1500px) {
 
   .modal-images {
-    
-    img {
-        width: 280px;
-        }
+      img {width: 280px}
+      }
 }
 
-}
 
+// --- BREAK 2 --- //
 @media only screen and (max-width: 1250px) {
-
-  .modal-images {
-    .img {display: none}
-    .hidden {display: block}
-}
-
-
-  #modal-content {
-    width: 100%;
-    padding: 20px 5px;
-    p {
-        line-height: 1.1;
-        font-size:  16px;
+    
+    .modal-images {
+        .img {display: none}
+        .hidden {display: block}
     }
 
-    a {
-        line-height: 1.6;
-        font-size:  16px;
+    #modal-content {
+        width: 100%;
+        padding: 20px 5px;
+        
+        p {
+            line-height: 1.1;
+            font-size:  16px;
+        }
+
+        a {
+            line-height: 1.6;
+            font-size:  16px;
+        }
     }
-
-}
-
 }
 
 
-// ------ 1000px ------ //
+// --- BREAK 3 --- //
 
 @media only screen and (max-width: 1000px) {
 
+  .header-content {height: 63vw}
 
-  .header-content {height: 63vw;}
+  .header-text h1 { font-size: 3rem}
 
-  .header-text h1 { font-size: 3rem;}
+  h2 {font-size: 52px}
 
-  h2 {font-size: 52px;}
-
-  .flex-skills {display: block;}
+  .flex-skills {display: block}
 
   .skills-left {
       width:          100%;
@@ -74,11 +70,11 @@
       }
   }
 
-  .skills .container {padding: 0 30px;}
+  .skills .container {padding: 0 30px}
 }
 
 
-// ------ Mobile ------ //
+// --- BREAK 4 --- //
 
 @media only screen and (max-width: 850px) {
 
@@ -88,16 +84,16 @@
       margin-right: auto;
       float: none;
 
-      img {width: 120px;}
+      img {width: 120px}
   }
 
-  .button {display: none;}
+  .button {display: none}
 
-  h3 {font-size: 18px;}
+  h3 {font-size: 18px}
 
-  .container {padding: 0;}
+  .container {padding: 0}
 
-  .inner {padding: 0 20px;}
+  .inner {padding: 0 20px}
 
   .portfolio-text {
       padding: 20px;
@@ -143,16 +139,20 @@
 }
 
 
-// ------ 760px ------ //
+// --- BREAK 5 --- //
 
 @media only screen and (max-width: 760px) {
 
+  .header-content {height: 66vw}
 
-  .header-content {height: 66vw;}
+  .header-text h1 {font-size: 2.5rem}
 
-  .header-text h1 {font-size: 2.5rem;}
+  .portfolio-card {margin-bottom: 0}
 
-  .portfolio-card {margin-bottom: 0;}
+  #about {
+      background: none;
+      background-color: $background-about;
+  }
 
   .about-text {
       width: 100%;
@@ -165,28 +165,27 @@
       margin: 0 auto;
       text-align: center;
 
-
       li {
           display:  inline;
           font-weight: 200;
           padding:    15px;
       }
 
-      a, li {font-size: 14px;}
+      a, li {font-size: 14px}
   }
 
 }
 
 
-// ------ 500px ------ //
+// --- BREAK 6 --- //
 
 @media only screen and (max-width: 500px) {
 
-  .header-content {height: 65vw;}
+  .header-content {height: 65vw}
 
-  .header-text h1 {font-size: 2.2rem;}
+  .header-text h1 {font-size: 2.2rem}
 
-  h2 {font-size: 10vw;}
+  h2 {font-size: 10vw}
 
   h5, a {
       font-size:   16px;
@@ -199,11 +198,9 @@
   }
 
   #about {
-      background: none;
-      background-color: $background-about;
 
       h3 {
-          color:        white;
+          color:      white;
           padding-bottom: 6px;
       }
 
@@ -225,7 +222,7 @@
     padding: 0 50px;
     width:     100%;
 
-    p,a {font-size: 14px;}
+    p,a {font-size: 14px}
   }
 
 
@@ -236,21 +233,17 @@
 
 
 .modal-main {
-    max-width          : 80vw;
-    max-height         : 90vh;
+    max-width     : 80vw;
+    max-height    : 90vh;
     padding: 18px 20px 0;
-    h3 {
-        margin-bottom: 16px;
-    }
+
+    h3 {margin-bottom: 16px}
 }
 
 
-.modal-images {
-    
-    img {
+.modal-images img {
         width: 240px;
         margin-bottom: 12px;
-        }
 }
 
 #modal-content {
@@ -262,22 +255,18 @@
         font-size:  14px;
     }
 }
-
-
-
-
 }
 
 
-// ------ 445px ------ //
+// ------ Break 7 ------ //
 
 @media only screen and (max-width: 455px) {
 
-  .header-content {height: 66vw;}
+  .header-content {height: 66vw}
 
-  .header-text h1 {font-size: 2rem;}
+  .header-text h1 {font-size: 2rem}
 
-  .header-text h5 {font-size: 16px;}
+  .header-text h5 {font-size: 16px}
 
   .portfolio-text a, h6 {
       font-size:  16px;
@@ -286,16 +275,16 @@
 }
 
 
-// ------ 350px ------ //
+// --- BREAK 8 --- //
 
 @media only screen and (max-width: 350px) {
 
-  .header-text h1 {font-size: 1.7rem;}
+  .header-text h1 {font-size: 1.7rem}
 
   .portfolio-text a, h6 {
       font-size:  14px;
       line-height: 1.2;
   }
 
-  .email {padding: 0 30px;}
+  .email {padding: 0 30px}
 }
