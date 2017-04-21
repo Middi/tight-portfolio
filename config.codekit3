@@ -7,7 +7,7 @@
 		"uuidString": "15DEB42B-BC78-4C1A-A9AA-22BB7DD187B5"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/css\/stylesheet.css": {
 		"aP": 0,
@@ -31,6 +31,7 @@
 		"oA": 0,
 		"oAP": "\/images\/about.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -40,6 +41,7 @@
 		"oA": 0,
 		"oAP": "\/images\/cleaning.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -56,21 +58,23 @@
 	"\/images\/comic-100.png": {
 		"ft": 32768,
 		"iS": 4530,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/comic-100.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/comic.png": {
 		"ft": 32768,
 		"iS": 44470,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/comic.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/construction.jpg": {
@@ -79,77 +83,85 @@
 		"oA": 0,
 		"oAP": "\/images\/construction.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/images\/desktop-small.png": {
 		"ft": 32768,
 		"iS": 112453,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/desktop-small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/desktop.png": {
 		"ft": 32768,
 		"iS": 99917,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/desktop.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/desktop2.png": {
 		"ft": 32768,
 		"iS": 138168,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/desktop2.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/desktop3.png": {
 		"ft": 32768,
 		"iS": 79424,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/desktop3.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/desktop4.png": {
 		"ft": 32768,
 		"iS": 82073,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/desktop4.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/favicon.png": {
 		"ft": 32768,
 		"iS": 297,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/favicon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/growthitude-small.png": {
 		"ft": 32768,
 		"iS": 132245,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/growthitude-small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/growthitude.jpg": {
@@ -158,17 +170,19 @@
 		"oA": 0,
 		"oAP": "\/images\/growthitude.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/images\/growthitude.png": {
 		"ft": 32768,
 		"iS": 187819,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/growthitude.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/handyman.jpg": {
@@ -177,6 +191,7 @@
 		"oA": 0,
 		"oAP": "\/images\/handyman.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -186,17 +201,19 @@
 		"oA": 0,
 		"oAP": "\/images\/hero-img.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/images\/lawn-small.png": {
 		"ft": 32768,
 		"iS": 93238,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/lawn-small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/lawn-smaller.psd": {
@@ -211,37 +228,41 @@
 		"oA": 0,
 		"oAP": "\/images\/lawn.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
 	"\/images\/payment-small.png": {
 		"ft": 32768,
 		"iS": 85251,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/payment-small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/payment.png": {
 		"ft": 32768,
 		"iS": 121729,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/payment.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/projects-small.png": {
 		"ft": 32768,
 		"iS": 94390,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/projects-small.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/projects-small.psd": {
@@ -253,11 +274,12 @@
 	"\/images\/projects.png": {
 		"ft": 32768,
 		"iS": 136324,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/projects.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/projects.psd": {
@@ -272,6 +294,7 @@
 		"oA": 0,
 		"oAP": "\/images\/trevor.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -289,6 +312,7 @@
 		"oA": 0,
 		"oAP": "\/images\/vy.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
@@ -1369,6 +1393,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -2193,14 +2221,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -2263,7 +2283,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {

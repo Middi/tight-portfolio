@@ -27,3 +27,28 @@ for (var i = 0; i < openImg.length; i++) {
     modalBg.classList.toggle("closed");
   });
 }
+
+
+// Smooth scrolling
+
+
+		$(".btn-float").click(function() {
+			window.location = $(this).find("a").attr("href");
+			return false;
+		});
+
+    
+	$(function() {
+		$('a[href*="#"]:not([href="#"])').click(function() {
+			if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+				var target = $(this.hash);
+				target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+				if (target.length) {
+					$('html, body').animate({
+						scrollTop: target.offset().top
+					}, 1000);
+					return false;
+				}
+			}
+		});
+	});
