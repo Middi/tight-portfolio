@@ -25,16 +25,6 @@
 		"oAP": "\/gitignore",
 		"oF": 0
 		},
-	"\/images\/about.jpg": {
-		"ft": 16384,
-		"iS": 32420,
-		"oA": 0,
-		"oAP": "\/images\/about.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/cleaning.jpg": {
 		"ft": 16384,
 		"iS": 12043,
@@ -190,16 +180,6 @@
 		"iS": 12353,
 		"oA": 0,
 		"oAP": "\/images\/handyman.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/hero-img.jpg": {
-		"ft": 16384,
-		"iS": 59942,
-		"oA": 0,
-		"oAP": "\/images\/hero-img.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
