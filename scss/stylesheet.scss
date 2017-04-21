@@ -92,7 +92,9 @@ body {background-color: $background;}
     background: url('../images/desktop.png') right bottom no-repeat, linear-gradient(#F9F9F9 2%, #CFD5DA 95%),
     radial-gradient(33% 100%, rgba(255,255,255,0.70) 0%, rgba(0,0,0,0.20) 100%);
 
-    a:hover {text-decoration: underline}
+    a:hover {
+        text-decoration: underline;
+        }
 }
 
 #growthitude {
@@ -107,9 +109,6 @@ body {background-color: $background;}
     
     a:hover {
         text-decoration: underline;
-        -webkit-text-decoration-color: $hover;
-        -moz-text-decoration-color:    $hover;
-        text-decoration-color:         $hover;
         }
 
     span {color: $grey-169;}
@@ -145,9 +144,7 @@ body {background-color: $background;}
     }
 
     a:hover {
-        -webkit-text-decoration-color: $hover;
-        -moz-text-decoration-color:    $hover;
-        text-decoration-color:         $hover;
+        color: $hover;
     }
 
     p {
