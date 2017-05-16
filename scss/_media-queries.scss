@@ -56,6 +56,17 @@
 
   h2 {font-size: 52px}
 
+    #about {
+      background: none;
+      background-color: $background-about;
+  }
+
+  .about-text {
+      width: 100%;
+      padding: 80px 30px 60px;
+  }
+  
+
   .flex-skills {display: block}
 
   .skills-left {
@@ -148,16 +159,6 @@
   .header-text h1 {font-size: 2.5rem}
 
   .portfolio-card {margin-bottom: 0}
-
-  #about {
-      background: none;
-      background-color: $background-about;
-  }
-
-  .about-text {
-      width: 100%;
-      padding: 80px 30px 60px;
-  }
 
   .social {
       padding: 20px 20px;

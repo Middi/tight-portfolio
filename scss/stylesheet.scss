@@ -138,16 +138,16 @@ body {background-color: $background;}
     height:           auto;
 
     a, h3 {
-        color:        white;
+        color:      $grey-10;
         padding-bottom: 6px;
     }
 
     a:hover {
-        color: $hover;
+        color: $grey-64;
     }
 
     p {
-        color:   $about-p;
+        color:    $grey-6;
         font-weight:  200;
         line-height:  1.5;
         font-size:   16px;
