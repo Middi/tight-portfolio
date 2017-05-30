@@ -25,24 +25,36 @@
 		"oAP": "\/gitignore",
 		"oF": 0
 		},
-	"\/images\/about copy.jpg": {
+	"\/images\/about.jpg": {
 		"ft": 16384,
-		"iS": 101040,
+		"iS": 45112,
 		"oA": 0,
-		"oAP": "\/images\/about copy.jpg",
+		"oAP": "\/images\/about.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/about.jpg": {
-		"ft": 16384,
-		"iS": 35290,
+	"\/images\/bootcamp-small.png": {
+		"ft": 32768,
+		"iS": 294170,
 		"oA": 0,
-		"oAP": "\/images\/about.jpg",
+		"oAP": "\/images\/bootcamp-small.png",
 		"oF": 0,
-		"oIPL": 0,
+		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/bootcamp.png": {
+		"ft": 32768,
+		"iS": 348067,
+		"oA": 0,
+		"oAP": "\/images\/bootcamp.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/cleaning.jpg": {
@@ -169,8 +181,8 @@
 		"oA": 0,
 		"oAP": "\/images\/growthitude-small.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -190,8 +202,8 @@
 		"oA": 0,
 		"oAP": "\/images\/growthitude.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},

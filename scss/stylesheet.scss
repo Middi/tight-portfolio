@@ -113,8 +113,8 @@ body {background-color: $background;}
     span {color: $grey-169;}
 }
 
-#projects {
-    background: url('../images/projects.png') top no-repeat, linear-gradient(#F9F9F9 2%, #CFD5DA 95%),
+#bootcamp {
+    background: url('../images/bootcamp.png')  top no-repeat, linear-gradient(#F9F9F9 2%, #CFD5DA 95%),
     radial-gradient(33% 100%, rgba(255,255,255,0.70) 0%, rgba(0,0,0,0.20) 100%);
     -webkit-background-size: cover;
     -moz-background-size:    cover;
@@ -127,6 +127,23 @@ body {background-color: $background;}
     span {color: $grey-64}
 
     a:hover {text-decoration: underline}
+}
+
+
+
+#projects {
+    background: url('../images/projects.png') top center no-repeat, linear-gradient(-180deg, #151921 0%, #343643 97%);
+    -webkit-background-size: cover;
+    -moz-background-size:    cover;
+    -o-background-size:      cover;
+    background-size:         cover;
+    background-color: $background-projects;
+
+    a, h6 {color: white;}
+    
+    a:hover {text-decoration: underline}
+
+    span {color: $grey-169;}
 }
 
 

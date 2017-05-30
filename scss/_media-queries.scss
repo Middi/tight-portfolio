@@ -139,9 +139,18 @@
       background-size:         contain;
   }
 
+    #bootcamp {
+      background: url('../images/bootcamp-small.png') bottom center no-repeat;
+      background-color:  $background-projects;
+      -webkit-background-size: contain;
+      -moz-background-size:    contain;
+      -o-background-size:      contain;
+      background-size:         contain;
+  }
+
   #projects {
       background: url('../images/projects-small.png') bottom center no-repeat;
-      background-color: $background-projects;
+      background-color: $background-growth;
       -webkit-background-size: contain;
       -moz-background-size:    contain;
       -o-background-size:      contain;
