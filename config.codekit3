@@ -35,6 +35,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/bootcamp-small.png": {
+		"ft": 32768,
+		"iS": 73276,
+		"oA": 0,
+		"oAP": "\/images\/bootcamp-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/bootcamp.png": {
+		"ft": 32768,
+		"iS": 83272,
+		"oA": 0,
+		"oAP": "\/images\/bootcamp.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/cleaning.jpg": {
 		"ft": 16384,
 		"iS": 12043,
@@ -153,6 +175,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/growthitude-small.png": {
+		"ft": 32768,
+		"iS": 81046,
+		"oA": 0,
+		"oAP": "\/images\/growthitude-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/growthitude.jpg": {
 		"ft": 16384,
 		"iS": 62082,
@@ -161,6 +194,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/images\/growthitude.png": {
+		"ft": 32768,
+		"iS": 63837,
+		"oA": 0,
+		"oAP": "\/images\/growthitude.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/handyman.jpg": {
