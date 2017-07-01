@@ -45,15 +45,3 @@ for (var i = 0; i < openImg.length; i++) {
 			}
 		});
 	});
-
-
-	$.ajax({
-	type:'get',
-  url: 'https://oslobysykkel.no/api/v1/stations',
-  headers: {
-  	'Client-Identifier': '9c15107665f894e8396aabad6c3ed366'
-  },
-  success: function(data) {
-  console.log(data);
-  }
-});
