@@ -7,7 +7,7 @@
 		"uuidString": "15DEB42B-BC78-4C1A-A9AA-22BB7DD187B5"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/css\/stylesheet.css": {
 		"aP": 0,
@@ -33,6 +33,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"\/images\/amazon-small.png": {
+		"ft": 32768,
+		"iS": 222529,
+		"oA": 0,
+		"oAP": "\/images\/amazon-small.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/amazon.png": {
+		"ft": 32768,
+		"iS": 7844985,
+		"oA": 0,
+		"oAP": "\/images\/amazon.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/images\/bootcamp-small.png": {
@@ -2391,6 +2413,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
